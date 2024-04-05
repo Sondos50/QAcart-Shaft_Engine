@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 3' test cases in the current suite                                        
+                                                  Test Method: 'TestPackage.TestClass.locators'                                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:18.0779 AM
+[ReportManager] Click "Locators". @05-04-2024 05:48:19.0047 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:19.0510 AM
+[ReportManager] Click "By.id: selenium". @05-04-2024 05:48:19.0554 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:19.0724 AM
+[ReportManager] Click "By.name: appium". @05-04-2024 05:48:19.0752 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:19.0912 AM
+[ReportManager] Click "By.cssSelector: [data-testid=cypress]". @05-04-2024 05:48:19.0938 AM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @05-04-2024 05:48:19.0993 AM
+[ReportManager] Get current url "https://hatem-hatamleh.github.io/Selenium-html/". @05-04-2024 05:48:20.0008 AM
+[ReportManager] Get current window title "QAcart Selenium 101 course". @05-04-2024 05:48:20.0022 AM
+[ReportManager] Successfully Closed Driver. @05-04-2024 05:48:20.0410 AM

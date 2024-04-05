@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '2 out of 3' test cases in the current suite                                        
+                                                    Test Method: 'TestPackage.TestClass.Wait'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:11.0918 AM
+[ReportManager] Click "Waits". @05-04-2024 05:48:12.0200 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:15.0398 AM
+[ReportManager] Click "Click me". @05-04-2024 05:48:15.0456 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:15.0616 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:16.0979 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:18.0323 AM
+[ReportManager] Click "Secondary". @05-04-2024 05:48:18.0491 AM
+[ReportManager] Alert is present @05-04-2024 05:48:18.0495 AM
+[ReportManager] Alert is present @05-04-2024 05:48:18.0498 AM
+[ReportManager] Accept alert. @05-04-2024 05:48:18.0505 AM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @05-04-2024 05:48:18.0591 AM

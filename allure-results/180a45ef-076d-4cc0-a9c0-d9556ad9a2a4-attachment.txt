@@ -1,0 +1,21 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 3' test cases in the current suite                                        
+                                             Test Method: 'TestPackage.TestClass.openChromeBrowser'                                             
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:08.0557 AM
+[ReportManager] Click "Actions". @05-04-2024 05:48:09.0062 AM
+[ReportManager] Text cleared Using Native Clear @05-04-2024 05:48:09.0317 AM
+[ReportManager] Type "sondos" into "First Name". @05-04-2024 05:48:09.0511 AM
+[ReportManager] Text cleared Using Native Clear @05-04-2024 05:48:09.0700 AM
+[ReportManager] Type "sherif" into "Last Name". @05-04-2024 05:48:09.0803 AM
+[ReportManager] Select "Junior" from "By.id: level". @05-04-2024 05:48:10.0687 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:10.0904 AM
+[ReportManager] Click "Web". @05-04-2024 05:48:10.0989 AM
+[ReportManager] Moved the mouse to the middle of the element. @05-04-2024 05:48:11.0198 AM
+[ReportManager] Click "Click me". @05-04-2024 05:48:11.0284 AM
+[ReportManager] Alert is present @05-04-2024 05:48:11.0308 AM
+[ReportManager] Alert is present @05-04-2024 05:48:11.0312 AM
+[ReportManager] Accept alert. @05-04-2024 05:48:11.0331 AM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @05-04-2024 05:48:11.0452 AM
